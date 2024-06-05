@@ -1,0 +1,90 @@
+.judulBesar{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #003C43;
+    color: white;
+}
+
+.paragraf, .sumber{
+    font-family: helvetica;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    line-height: 1.5;
+}
+
+#gambar{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: 0px solid white;
+    border-radius: 5px;
+    filter: drop-shadow(8px 8px 10px white);
+
+}
+
+#gambar1{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: 0px solid gray;
+    border-radius: 5px;
+    filter: drop-shadow(8px 8px 10px gray);
+}
+
+img:hover {
+    transform: scale(1.2);
+}
+
+.artikel_1{
+    background-color: #176B87;
+    border-color: #176B87;
+}
+
+.artikel_2{
+    background-color: #001C30;
+}
+
+.artikel_3{
+    background-color: #176B87;
+}
+
+.artikel_4{
+    background-color: #001C30;
+}
+
+.artikel_5{
+    background-color: #176B87;
+}
+
+.penutup{
+    background-color: #003C43;
+}
+
+.navigation{
+    text-align: center;
+    background-color: #003C43;
+    font-family: Arial;
+}
+
+h2{
+    font-family: Segoe UI;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #07e6ff;
+}
+
